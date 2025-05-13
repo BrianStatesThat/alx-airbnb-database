@@ -130,4 +130,4 @@ This document outlines the core database structure and relationships for the Air
   -  A property can have multiple images
   -  Each image is linked to one property
 
-![ERD](https://github.com/BrianStatesThat/alx-airbnb-database/blob/9c64065acf37e5157f6034a346311f4b10825c12/images/requirement.png?raw=true)
+![ERD](https://github.com/BrianStatesThat/alx-airbnb-database/blob/c20b18841e398c21ba3b26987102bc8464f27658/images/diagram.png?raw=true)
