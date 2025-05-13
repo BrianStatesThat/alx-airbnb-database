@@ -124,6 +124,10 @@ This document outlines the core database structure and relationships for the Air
 
 - **User → Review**: One-to-Many  
   - A user can write multiple reviews  
-  - A review is written by
+  - A review is written exactly by one user
+    
+- **Property → Images**: One-to-Many
+  -  A property can have multiple images
+  -  Each image is linked to one property
 
 ![ERD](https://github.com/BrianStatesThat/alx-airbnb-database/blob/9c64065acf37e5157f6034a346311f4b10825c12/images/requirement.png?raw=true)
