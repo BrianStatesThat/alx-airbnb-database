@@ -126,4 +126,4 @@ This document outlines the core database structure and relationships for the Air
   - A user can write multiple reviews  
   - A review is written by
 
-![ERD](images/requirement.png)
+![ERD](https://github.com/BrianStatesThat/alx-airbnb-database/blob/9c64065acf37e5157f6034a346311f4b10825c12/images/requirement.png?raw=true)
